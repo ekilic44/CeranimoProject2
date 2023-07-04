@@ -6,5 +6,6 @@ public class Tlg1 {
         System.out.println("sth added");
         System.out.println("LiCbr");
         //stop
+        // Local repo already has pushed
     }
 }
