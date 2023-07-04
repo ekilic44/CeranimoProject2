@@ -1,3 +1,6 @@
 public class ClassCR {
-    // feature-CRNM branch does not know about this
+    public static void main(String[] args) {
+        // first one
+        // second
+    }
 }
